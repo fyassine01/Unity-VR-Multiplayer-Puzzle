@@ -22,3 +22,7 @@ MemoryCaptures/
 # OS generated files
 .DS_Store
 Thumbs.db
+*.zip
+project_built/
+build/
+Build/
