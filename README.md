@@ -89,3 +89,15 @@ Ce projet a été développé dans un cadre pédagogique pour expérimenter **la
 ---
 
 🧠 *"Collaboration is the key to success!"*
+<img width="769" height="709" alt="image" src="https://github.com/user-attachments/assets/2a0b304c-85e1-4daf-9402-75f30ed55f5c" />
+<img width="291" height="175" alt="image" src="https://github.com/user-attachments/assets/c20c149c-1b0d-46e0-bd96-9f1a75df4ffe" />
+<img width="766" height="630" alt="image" src="https://github.com/user-attachments/assets/18778148-d638-483c-86e8-3e00393d7d02" />
+<img width="770" height="802" alt="image" src="https://github.com/user-attachments/assets/3c9041f4-5043-4003-9863-27d93c85138d" />
+<img width="660" height="765" alt="image" src="https://github.com/user-attachments/assets/e27e7ad3-5de9-4144-b0c9-fdeed8f68bf4" />
+<img width="594" height="344" alt="image" src="https://github.com/user-attachments/assets/61d5367a-da2e-40a1-90ea-39de82332f98" />
+<img width="566" height="273" alt="image" src="https://github.com/user-attachments/assets/d83d3c88-aeb2-4c6c-8da3-d973987fd4a5" />
+<img width="546" height="366" alt="image" src="https://github.com/user-attachments/assets/2f33c42f-357b-496f-aef4-754117e1c13e" />
+<img width="584" height="610" alt="image" src="https://github.com/user-attachments/assets/456c43c3-ed52-450f-b82d-7c474e02555c" />
+<img width="633" height="600" alt="image" src="https://github.com/user-attachments/assets/f5390db3-6d1a-4fd1-b1b2-45c75e574602" />
+<img width="510" height="565" alt="image" src="https://github.com/user-attachments/assets/0f7ea11c-89e7-4081-81a3-bd749479e68a" />
+
